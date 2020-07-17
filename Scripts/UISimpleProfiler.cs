@@ -8,6 +8,7 @@ namespace Kogane.Internal
 	/// <summary>
 	/// シンプルなプロファイラの UI を管理するクラス
 	/// </summary>
+	[AddComponentMenu( "" )]
 	[DisallowMultipleComponent]
 	internal sealed class UISimpleProfiler : MonoBehaviour
 	{
